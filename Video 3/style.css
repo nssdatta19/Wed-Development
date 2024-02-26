@@ -1,4 +1,9 @@
-body { 
-    background-color: red;
-    color: yellow;
+#title{
+    color:black;
+    background-color: white;
+
+}
+
+body{
+    background-color:grey;
 }
